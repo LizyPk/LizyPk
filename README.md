@@ -3,11 +3,11 @@
 <div style="display: inline_block"><br>
 <img align="left" alt="Lizy-pic" height="110" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703713278840406076/905507215266443364/PROFILECHICKEN.png">
  
- 😄 Pronouns: she / her
+🌍 I am from: Rio Grande do Sul, Brazil
  
  🔭 I'm currently working on the production of Horizon Chase at Aquiris Game Studio
  
- 🌱 I'm currently learning C++, C# for Unity and Java Script.
+ 🌱 I'm currently learning C++, C# for Unity and JavaScript.
  
  ##
 
