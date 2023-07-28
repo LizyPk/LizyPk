@@ -5,7 +5,7 @@
  
 🌍 I am from: Rio Grande do Sul, Brazil
  
- 🔭 I'm currently working on the production of Horizon Chase at Aquiris Game Studio
+ 🔭 I'm currently working on the production of Football Games at Hermit Crab Game Studio
  
  🌱 I'm currently learning C++, C# for Unity and JavaScript.
  
