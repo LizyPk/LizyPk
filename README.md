@@ -1,7 +1,7 @@
 ## Hi, I'm Lizy Novo! Coding just for fun
 
 <div style="display: inline_block"><br>
-<img align="left" alt="Lizy-pic" height="120" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703713278840406076/905507215266443364/PROFILECHICKEN.png">
+<img align="left" alt="Lizy-pic" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703713278840406076/905507215266443364/PROFILECHICKEN.png">
  
 🌍 I am from: Rio Grande do Sul, Brazil
  
